@@ -4,7 +4,7 @@ An interactive **React + GSAP** feedback UI with animated face and mood slider.
 
 ## ✨ Features
 - Mood slider: **Bad / Not Bad / Good**
-- Eye, mouth & face animations
+- Eyes & mouth animations
 - Cursor-tracking pupils
 - Animated gradient background
 - Optional feedback text
